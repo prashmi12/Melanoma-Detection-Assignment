@@ -4,7 +4,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Libraries Used in Python](#libraries-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements) 
 * [Team Members](#teammembers)
 
@@ -48,8 +47,6 @@ To create a multiclass classification model using a custom convolutional neural 
 - seaborn 
 - tensorflow
 -  keras
-
-## Conclusions <a name="conclusions"></a>
 
 ## Acknowledgements <a name="acknowledgements"></a>
 - This project is given by Upgrad as an assignment case study
